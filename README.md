@@ -17,6 +17,7 @@ The following extensions are implemented:
 Video Walkthrough
 ![cal](https://github.com/Doolofin/Calculator/assets/112103104/a5be6798-3387-4a30-b267-e061e6023bec)
 
+
 Notes
 ...
 License
